@@ -162,7 +162,7 @@ This part of the assignment is requireing us to fill in the `NA` values and then
 ```r
 NA_rows <- nrow(activity) - sum(complete.cases(activity))
 ```
-The number of missing values is `NA_rows`.
+The number of missing values is 2304.
 
 2. **Devise a strategy for filling in all of the missing values in the dataset**
 
