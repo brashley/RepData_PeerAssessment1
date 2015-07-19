@@ -1,3 +1,12 @@
+## Assignment Details
+This assignment is to create a report using Rmakdows.  I have left the original instruciton below for reference. The report files all start with `PA1_template` and the `Rmd`, `md`, and `html` formats are included.  In addition, a `code.R` is included that was used to create and test the required code prior to creating the Rmarkdown report. 
+
+To dirrectly view the `html` file please use this [link](http://htmlpreview.github.io/?https://github.com/brashley/RepData_PeerAssessment1/blob/master/PA1_template.html).
+
+*RAA*
+
+***
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
